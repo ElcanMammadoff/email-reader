@@ -10,8 +10,8 @@ public class GmailReaderPlainText {
 
     public static void main(String[] args) {
         String host = "imap.gmail.com";
-        String username = "......";
-        String appPassword = ".........";
+        String username = "mahirciler@gmail.com";
+        String appPassword = "knolooqipjuirpqb";
 
         Properties props = new Properties();
         props.put("mail.store.protocol", "imaps");
